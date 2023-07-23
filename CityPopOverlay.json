@@ -1,0 +1,23 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "Friday Magic Album",
+      "sources": [
+        "https://i.imgur.com/a/TI9jkJT"
+      ],
+      "x": 500,
+      "y": 630
+    },
+    {
+      "name": "Dessins animés FR",
+      "sources": [
+        "https://i.imgur.com/Lnw3EVE.png"
+      ],
+      "x": 1850,
+      "y": 300
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
