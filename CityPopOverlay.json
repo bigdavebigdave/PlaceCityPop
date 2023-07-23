@@ -10,12 +10,12 @@
       "y": 324
     },
     {
-      "name": "Dessins animés FR",
+     "name": "FR drapeau droite",
       "sources": [
-        "https://i.imgur.com/Lnw3EVE.png"
+        "https://i.imgur.com/zkcu9Ak.png"
       ],
-      "x": 1850,
-      "y": 300
+      "x": 1868,
+      "y": 645
     }
   ],
   "whitelist": [],
